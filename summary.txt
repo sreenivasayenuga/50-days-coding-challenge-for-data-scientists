@@ -1,0 +1,11 @@
+
+Findings:
+- Average electricity usage: 301.34 kWh, gas: 123.26, total: 424.60.
+- Highest monthly usage in February (474.92 kWh), possibly due to heating.
+- Weak correlations: Family size (0.04), Income (0.02), Appliances (-0.01) – suggests other factors like location or habits dominate.
+- Highest consumers: 3-member families (448.94 kWh), high-income (60-90k: 431.95 kWh), 7-appliance households (462.00 kWh).
+
+Recommendations:
+- For mid-sized families (3-5 members): Promote shared energy monitoring apps and efficient heating/cooling.
+- For moderate-appliance households (7-12): Encourage unplugging unused devices and LED upgrades.
+- General: Subsidies for insulation in high-usage months (Feb/Oct); audits for low-correlation groups to identify hidden inefficiencies.
